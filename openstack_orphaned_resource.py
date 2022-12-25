@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """openstack_orphaned_resource.py: This script will list the resources that are allocated to non-existing Project IDs."""
-__author__      = "Vinoth Kumar Selvaraj"
+__author__      = "Tiago Osvald Ramos"
 
 import os
 import sys
